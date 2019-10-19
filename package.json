@@ -1,0 +1,19 @@
+{
+  "name": "sb-shadowizard",
+  "version": "1.0.0",
+  "description": "'DO NOT INSTALL: Add shadow to image'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiswasSuman/shadowizard.git"
+  },
+  "author": "Suman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BiswasSuman/shadowizard/issues"
+  },
+  "homepage": "https://github.com/BiswasSuman/shadowizard#readme"
+}

@@ -7,11 +7,11 @@ function shadowizard(options) {
     options.shadow_type = '15px';
 
   images.forEach(image => {
-    images.style.boxShadow = `10px 10px ${options.shadow_type} 1px rgba(0.0.0.12)`;
+    image.style.boxShadow = `5px 5px ${options.shadow_type} 1px rgba(0.0.0.1)`;
     if(options.padding){
       image.style.padding = '1em';
     }
   })
 }
 
-module.export.shadowizard = shadowizard;
+module.exports.shadowizard = shadowizard;
